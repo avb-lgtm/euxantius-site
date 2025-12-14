@@ -13,29 +13,53 @@
       color: #111;
       background: #fff;
     }
+
     h1, h2, h3 { font-weight: normal; }
-    a { color: #111; text-decoration: none; font-weight: bold; }
-    a:hover { text-decoration: underline; }
 
     header {
       text-align: center;
       margin-bottom: 2em;
     }
 
+    header h1 {
+      font-size: 2.5em; /* larger font for your name */
+      margin-bottom: 0.2em;
+    }
+
+    header p.description {
+      font-size: 1.1em;
+      color: #333;
+      margin-top: 0;
+    }
+
+    nav {
+      margin-top: 1em;
+    }
+
     nav a {
+      color: #111;
+      text-decoration: none;
+      font-weight: bold;
       margin: 0 1em;
     }
 
+    nav a:hover {
+      text-decoration: underline;
+    }
+
     main {
-      margin-top: 1em;
+      margin-top: 2em;
     }
   </style>
 </head>
 <body>
   <header>
+    <h1>Omar Abdel-Maged, FRSA</h1>
+    <p class="description">I do nothing in particular. My writing is here in the essays section, and I produce and record audiobooks for Audible.</p>
     <nav>
       <a href="/">Home</a> |
-      <a href="/essays/">Essays</a>
+      <a href="/essays/">Essays</a> |
+      <a href="/audiobooks/">Audiobooks</a>
     </nav>
   </header>
 
