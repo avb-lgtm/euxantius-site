@@ -20,3 +20,5 @@ You can find here all of the audiobooks which I have both produced and lent my v
 You will find below for each book a link to their corresponding Audible pages.
 
 - [A Reflective Tale of Time, Mindfulness, and the Heart’s Quiet Lessons by Shu Chen Hou](/audiobooks/first-audiobook/)
+- [21st Century Autoimmune Blues by Brent Terry](/audiobooks/second-audiobook/)
+
