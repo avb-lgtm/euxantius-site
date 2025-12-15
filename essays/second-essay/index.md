@@ -129,14 +129,17 @@ I am thankful to that lady for being my very own conductor of the moon’s light
 
 And I hope she too one day finds the peace offered by the illumination of her spirit.
 
+-END-
 
 Yours,
+
 OAM
 
 In appreciation of some of the great minds that nurtured my own.
 
--END-
-
 [1] Please note that I took upon myself this scientific experiment only once
 
 8220 67 111 110 102 117 115 105 111 110 32 110 111 119 32 104 97 116 104 32 109 97 100 101 32 104 105 115 32 109 97 115 116 101 114 112 105 101 99 101 46 8221 32 45 45 32 77 97 99 100 117 102 102
+
+
+--END--
