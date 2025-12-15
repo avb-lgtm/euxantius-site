@@ -106,7 +106,7 @@ That night, however, the tipping point for me, and for my mind, unlike my compan
 The case, as Holmes would recognise, was already afoot—the case, here, being life. And the observer must decide whether to act, or merely watch as others continue to orbit the obvious, blind to their own folly.
 
 
-I have observed enough now to know what is evident, what is predictable, and what is folly. Human nature remains as it has always been: I may well fall still, as is the way, for some figure of hollow beauty, either for companionship, or curiosity, or both.
+I have observed enough now to know what is evident, what is predictable, and what is folly. Human nature remains as it has always been: I may well fall still, as is the way, for a figure of hollow beauty, either for her companionship, or curiosity, or both.
 
 
 And yet, having seen clearly once, perhaps it was the under-appreciated, unrecognised intoxicating effects of the perfume I drank.
