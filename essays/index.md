@@ -20,7 +20,7 @@ This is unfortunately now commonplace with AI generated writing.
 However, be there method to all perceived madness...
 
 - [How the Ordinary Becomes Extraordinary: A Study in Historical Remedies and Contemporary Neglect](/essays/first-essay/)
-- [Second Essay](/essays/second-essay/)
+- [Of A Study in Indulgence](/essays/second-essay/)
 - [On The Arrogance of Human Self‑Worship and the Divine Stupidity of Tech Billionaires](/essays/arrogance-self-worship/)
 
 
