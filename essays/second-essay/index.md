@@ -4,7 +4,7 @@ layout: "base.njk"
 permalink: "/essays/second-essay/index.html"
 ---
 
-ESSAY: Of A Study in Indulgence
+# ESSAY: Of A Study in Indulgence
 
 
 14/12/2025
