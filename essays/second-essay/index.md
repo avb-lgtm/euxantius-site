@@ -130,11 +130,10 @@ I am thankful to that lady for being my very own conductor of the moon’s light
 And I hope she too one day finds the peace offered by the illumination of her spirit.
 
 
-By,
-
+Yours,
 OAM
 
-In memoriam: some of the great minds that nurtured my own.
+In appreciation of some of the great minds that nurtured my own.
 
 -END-
 
