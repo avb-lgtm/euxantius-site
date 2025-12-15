@@ -109,12 +109,10 @@ The case, as Holmes would recognise, was already afoot—the case, here, being l
 I have observed enough now to know what is evident, what is predictable, and what is folly. Human nature remains as it has always been: I may well fall still, as is the way, for a figure of hollow beauty, either for her companionship, or curiosity, or both.
 
 
-And yet, having seen clearly once, perhaps it was the under-appreciated, previously (till now, potentially) unrecognised intoxicating effects of the perfume and its chemical of which it was composed, that I so foolishly drank.
+And yet, having seen clearly once, perhaps it was the under-appreciated, previously (till now, potentially) unrecognised intoxicating effects of the perfume, and the chemicals of which it was composed, that I so foolishly drank.
 
 
-(I realise that this is not a common practice)
-
-(and I assure you, Dear Reader, that I took upon myself this scientific experiment only once).
+(I realise that this is not a common practice)[1]
 
 
 But the nature of mankind is resolved to these same patterns of indulgence and self-interest which I observed then; I am no longer blind to the game as it plays itself before me. And I do not need to drink perfume to understand this now.
@@ -139,5 +137,7 @@ OAM
 In memoriam: some of the great minds that nurtured my own.
 
 -END-
+
+[1] Please note that I took upon myself this scientific experiment only once
 
 8220 67 111 110 102 117 115 105 111 110 32 110 111 119 32 104 97 116 104 32 109 97 100 101 32 104 105 115 32 109 97 115 116 101 114 112 105 101 99 101 46 8221 32 45 45 32 77 97 99 100 117 102 102
