@@ -109,10 +109,10 @@ The case, as Holmes would recognise, was already afoot—the case, here, being l
 I have observed enough now to know what is evident, what is predictable, and what is folly. Human nature remains as it has always been: I may well fall still, as is the way, for a figure of hollow beauty, either for her companionship, or curiosity, or both.
 
 
-And yet, having seen clearly once, perhaps it was the under-appreciated, unrecognised intoxicating effects of the perfume I drank.
+And yet, having seen clearly once, perhaps it was the under-appreciated, previously (till now, potentially) unrecognised intoxicating effects of the perfume and its chemical of which it was composed, that I so foolishly drank.
 
 
-(I realise that is not a common practice).
+(I realise that this is not a common practice, and I assure you, Dear Reader, it happened only once).
 
 
 But the nature of mankind is resolved to these same patterns of indulgence and self-interest which I observed then; I am no longer blind to the game as it plays itself before me. And I do not need to drink perfume to understand this now.
