@@ -132,9 +132,9 @@ And I hope she too one day finds the peace offered by the illumination of her sp
 
 By,
 
-Omar Abdel-Maged
+OAM
 
-In memoriam of some of the great minds that nurtured my own.
+In memoriam: some of the great minds that nurtured my own.
 
 -END-
 
