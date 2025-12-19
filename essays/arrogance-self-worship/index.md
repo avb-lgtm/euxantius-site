@@ -172,7 +172,7 @@ One must also consider, in the plethora of evidence for God, the statistical imp
 
 
 
-If the powers known of and attributed to prophets (bringing life from clay, splitting seas, calling water from a rock) were simply a function of human genius, or ‘madness’ then in the billions of humans who have ever lived, we would statistically have had to see others do the same.
+If the powers known of and attributed to prophets (walking on water, turning Moses' staff into a serpant, the heat being withdrawn from a fire, splitting the Red Sea, calling water from wine) were simply a function of human genius, or ‘madness’ then in the billions of humans who have ever lived, we would statistically have had to see others do the same.
 
 
 
